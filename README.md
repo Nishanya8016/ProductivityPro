@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/cfd4c46b-ef31-4332-bb70-fa98360471f3
 
 ### AI Integration
 - **PDF Processing**: Python libraries (pdfplumber, PyPDF2, trafilatura) with cross-process communication
-- **AI Generation**: OpenAI GPT-4 API for intelligent flashcard creation with custom prompts
+- **AI Generation**: GROQ API for intelligent flashcard creation with custom prompts
 - **Fallback System**: Local text analysis algorithms ensure functionality without API dependency
 - **Error Handling**: Robust fallback mechanisms for offline or API unavailable scenarios
 
